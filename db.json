@@ -1,0 +1,113 @@
+
+{
+	"books": [
+		{
+			"id": 1,
+			"title": "Crime and Punishment",
+			"author": "Dostoyevsky",
+			"image": "https://picsum.photos/200",
+			"year": 1998,
+			"page": 300,
+			"description": "A psychological exploration of morality, guilt, and redemption through the story of Raskolnikov, a former student who commits a murder"
+		},
+		{
+			"id": 2,
+			"title": "Les Miserables",
+			"author": "Victor Hugo",
+			"image": "https://picsum.photos/201",
+			"year": 2005,
+			"page": 500,
+			"description": "A story of the French revolution"
+		},
+		{
+			"id": 3,
+			"title": "White Nights",
+			"author": "Dostoyevsky",
+			"image": "https://picsum.photos/202",
+			"year": 2010,
+			"page": 150,
+			"description": "A short love story"
+		},
+		{
+			"id": 4,
+			"title": "Anna Karenina",
+			"author": "Tolstoy",
+			"image": "https://picsum.photos/203",
+			"year": 2015,
+			"page": 750,
+			"description": "A tragic love story in Russia"
+		},
+		{
+			"id": 5,
+			"title": "Madame Bovary",
+			"author": "Gustave Flaubert",
+			"image": "https://picsum.photos/204",
+			"year": 2001,
+			"page": 320,
+			"description": "A woman's disappointments"
+		},
+		{
+			"id": 6,
+			"title": "Don Quixote",
+			"author": "Miguel de Cervantes",
+			"image": "https://picsum.photos/205",
+			"year": 1995,
+			"page": 400,
+			"description": "The adventures of a dreamer knight"
+		},
+		{
+			"id": 7,
+			"title": "One Hundred Years of Solitude",
+			"author": "Gabriel Garcia Marquez",
+			"image": "https://picsum.photos/206",
+			"year": 1999,
+			"page": 430,
+			"description": "The story of a family spanning generations"
+		},
+		{
+			"id": 8,
+			"title": "The Count of Monte Cristo",
+			"author": "Alexandre Dumas",
+			"image": "https://picsum.photos/207",
+			"year": 2003,
+			"page": 800,
+			"description": "A story full of revenge and adventure"
+		},
+		{
+			"id": 9,
+			"title": "In Search of Lost Time",
+			"author": "Marcel Proust",
+			"image": "https://picsum.photos/208",
+			"year": 2008,
+			"page": 1200,
+			"description": "A novel tracing memories and the past"
+		},
+		{
+			"id": 10,
+			"title": "Moby Dick",
+			"author": "Herman Melville",
+			"image": "https://picsum.photos/209",
+			"year": 1997,
+			"page": 640,
+			"description": "The story of a captain chasing the great white whale"
+		},
+		{
+			"id": 11,
+			"title": "Ulysses",
+			"author": "James Joyce",
+			"image": "https://picsum.photos/210",
+			"year": 2012,
+			"page": 730,
+			"description": "A masterpiece set in Dublin over the course of one day"
+		},
+		{
+			"id": 12,
+			"title": "Pride and Prejudice",
+			"author": "Jane Austen",
+			"image": "https://picsum.photos/211",
+			"year": 2015,
+			"page": 480,
+			"description": "A romantic novel that critiques the British landed gentry at the end of the 18th century."
+		}
+	]
+}
